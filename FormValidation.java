@@ -15,7 +15,7 @@ public class FormValidation extends JFrame implements ActionListener{
     JCheckBox others;
     JTextArea text;
     FormValidation(){
-            setSize(400,400);
+            setSize(500,500);
             setLayout(new GridBagLayout());
             GridBagConstraints gbc = new GridBagConstraints();
 
